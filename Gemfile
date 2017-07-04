@@ -10,9 +10,9 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 group :development, :test do
-  gem 'byebug', platform: :mri
+  #gem 'byebug', platform: :mri
   gem 'zeus'
-  gem 'ruby-debug-ide', path: './patch/ruby-debug-ide'
+  gem 'ruby-debug-ide', path: './patch/0.6.1.beta1'
   gem 'debase'
 end
 group :development do
