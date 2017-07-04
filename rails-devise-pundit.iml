@@ -118,6 +118,7 @@
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.4, RVM: ruby-2.3.1 [rails-devise-pundit]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.2, RVM: ruby-2.3.1 [rails-devise-pundit]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v2.0.0, RVM: ruby-2.3.1 [rails-devise-pundit]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="zeus (v0.15.14, RVM: ruby-2.3.1 [rails-devise-pundit]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
