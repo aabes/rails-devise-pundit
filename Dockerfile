@@ -11,6 +11,7 @@ WORKDIR /app
 
 ADD Gemfile /app
 ADD Gemfile.lock /app
+ADD patch/ /app/patch
 
 RUN gem install bundler && bundle install -j8
 ADD . /app

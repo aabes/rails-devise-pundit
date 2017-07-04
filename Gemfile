@@ -12,7 +12,7 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'zeus'
-  gem 'ruby-debug-ide'
+  gem 'ruby-debug-ide', path: './patch/ruby-debug-ide'
   gem 'debase'
 end
 group :development do
